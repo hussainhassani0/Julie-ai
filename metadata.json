@@ -1,0 +1,5 @@
+{
+  "name": "Julie",
+  "description": "A sleek, responsive chat application powered by the Google Gemini API, designed to mimic the user experience of modern AI assistants. It supports text and image-based conversations with real-time streaming responses.",
+  "requestFramePermissions": []
+}
